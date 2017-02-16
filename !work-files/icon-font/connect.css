@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Icons';
+  src:  url('fonts/icons/icons.eot?ir11iy');
+  src:  url('fonts/icons/icons.eot?ir11iy#iefix') format('embedded-opentype'),
+    url('fonts/icons/icons.ttf?ir11iy') format('truetype'),
+    url('fonts/icons/icons.woff?ir11iy') format('woff'),
+    url('fonts/icons/icons.svg?ir11iy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-phone {
+  content: '\e900';
+}
+
+.icon-vk {
+  content: '\e901';
+}
